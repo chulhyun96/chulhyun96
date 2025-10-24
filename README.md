@@ -13,7 +13,9 @@
 [![Email](https://img.shields.io/badge/Email-181717?style=flat&logo=gmail&logoColor=white)](tghy4@naver.com)
 
 ---
+### 🏋🏻 Activity & WorkExperience
 
+---
 ### ⚔️ Skill
 <!-- 사용 기술을 원하시는 대로 추가/삭제 -->
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
@@ -43,8 +45,6 @@
 ### 🧩 Study Repository
 - [스프링 부트 공부 기록](https://github.com/chulhyun96?tab=repositories&q=spring)  
 - [북 스터디](https://github.com/chulhyun96?tab=repositories&q=book)
-
-
 ---
 
 ### 🚀 Projects Repository
