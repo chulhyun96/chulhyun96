@@ -31,17 +31,6 @@
 
 ---
 
-### 📊 Activity & Stats
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chulhyun96&show_icons=true&theme=transparent" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=chulhyun96&theme=transparent" />
-</p>
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chulhyun96&layout=compact&langs_count=8&theme=transparent" />
-</p>
-
----
-
 ### 🧩 Study Repository
 - [스프링 부트 공부 기록](https://github.com/chulhyun96?tab=repositories&q=spring)  
 - [북 스터디](https://github.com/chulhyun96?tab=repositories&q=book)
@@ -58,7 +47,6 @@
   - WebSocket + Redis를 이용한 실시간 채팅 시스템 구축
   - AWS EC2 + Nginx + Docker + GitHub Actions CI/CD 연동
 ---
-
 ### ✍️ Blog Posting
 - [페이지네이션 슬로우 쿼리 분석 및 개선](https://bebetter-forme.tistory.com/103)
 - [성능개선의 핵심 인덱스 이해하기](https://bebetter-forme.tistory.com/94)
@@ -66,4 +54,12 @@
 
 ---
 
-### 
+### 📊 Activity & Stats
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chulhyun96&show_icons=true&theme=transparent" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=chulhyun96&theme=transparent" />
+</p>
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chulhyun96&layout=compact&langs_count=8&theme=transparent" />
+</p>
+
