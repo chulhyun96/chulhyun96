@@ -3,11 +3,16 @@
 ## BackEnd Developer
 ### Spring Boot/Java 중심으로, ‘데이터 정합성·안정적인 운영·유연한 확장성·빠른 응답’을 목표로 고민하고 질문하는 개발자입니다.
 
+
 <!-- 웨이브 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=BackEnd%20Developer&fontSize=42&fontColor=ffffff" />
 
 <!-- 타이핑 효과 -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=740&lines=Spring+Boot%2FJava+%F0%9F%94%A7;%F0%9F%A7%B1+%EC%A0%95%ED%95%A9%EC%84%B1+%E2%80%A7+%F0%9F%9B%A1%EF%B8%8F+%EC%95%88%EC%A0%95%EC%84%B1+%E2%80%A7+%F0%9F%93%88+%ED%99%95%EC%9E%A5%EC%84%B1+%E2%80%A7+%E2%9A%A1+%EC%84%B1%EB%8A%A5;Ask+%26+Verify%2C+%EA%B1%B0%EA%B8%B0%EC%84%B1%20%EC%A7%84%EB%8B%A8%EA%B3%BC%20%EA%B4%80%EC%B8%A1%EC%84%B1%EC%9D%84+%EC%A4%91%EC%8B%AC%EC%9C%BC%EB%A1%9C" />
+
+<!-- 한 줄 소개(이모지 강조) -->
+<b>Spring Boot/Java</b> 중심으로 <b>정확히(🧱)</b>·<b>안전하게(🛡️)</b>·<b>넓게(📈)</b>·<b>빠르게(⚡)</b>를 지향합니다.
+
 
 <a href="https://github.com/chulhyun96">
   <img src="contributions.svg" />
