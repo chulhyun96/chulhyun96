@@ -1,7 +1,7 @@
 <div align="center">
 
 ## BackEnd Developer
-### Spring Boot를 주력언어로 개발하고 있습니다.
+### Spring Boot/Java 중심으로, ‘데이터 정합성·안정적인 운영·유연한 확장성·빠른 응답’을 목표로 합니다.
 
 <a href="https://github.com/Mouon">
   <img src="contributions.svg" />
@@ -17,6 +17,13 @@
 
 ---
 ### 🏋🏻 Activity & WorkExperience
+- 2024.10~2024.11 우테코 7기 프리코스 참여
+- 2024.10~2025.02 제로베이스 부트캠프 수료
+- 2025.03~2025.04 인프런 워밍업 클럽스터디 수료(테스트 코드를 대하는 자세)
+- 2025.05~현재 솔루션 스타트업 BackEnd & DB 개발 데모 프로젝트 참여
+  - Oracle -> PostgreSQL 이관
+  - 레거시 코드 개선 및 리팩토링
+  - 새로운 기능에 따른 DB설계 및 프론트팀과의 협업
 
 ---
 ### ⚔️ Skill
@@ -45,7 +52,7 @@
   - 데이터 2천만건 이상에서 조회쿼리 분석 및 최적화 기법
   - 동시성 해결을 위한 방법 및 적용
   - 커뮤니티 사이트에서 겪을 수 있는 도메인 문제 분석 및 해결 프로젝트 ex)신고 정책, 악성유저 제재 정책, 조회수 어뷰징 방지 정책
-- [Plist - BE](https://github.com/Plist-ZB/plist-backend) — 제로베이스 부트캠프 팀 프로젝트(협업)
+- [Plist - BE](https://github.com/Plist-ZB/plist-backend) — 협업 프로젝트
   - WebSocket + Redis를 이용한 실시간 채팅 시스템 구축
   - AWS EC2 + Nginx + Docker + GitHub Actions CI/CD 연동
 ---
