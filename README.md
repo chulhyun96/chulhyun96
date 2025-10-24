@@ -71,9 +71,7 @@
 ---
 
 ### 📊 Activity & Stats
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chulhyun96&layout=compact&langs_count=8&theme=transparent" />
-</p>
+<div align="center">
 
 <!-- 프로필 트로피 -->
 <img src="https://github-profile-trophy.vercel.app/?username=chulhyun96&theme=onestar&no-bg=true&row=1&column=6" />
@@ -85,4 +83,7 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=chulhyun96&show_icons=true&theme=transparent" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=chulhyun96&theme=transparent" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chulhyun96&layout=compact&langs_count=8&theme=transparent" />
+
+</div>
+
 <img src="https://komarev.com/ghpvc/?username=chulhyun96&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
