@@ -2,16 +2,9 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=BackEnd%20Developer&fontSize=42&fontColor=ffffff"/>
 
-<img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Spring%20Boot%2FJava%20%EC%A4%91%EC%8B%AC%EC%9C%BC%EB%A1%9C%2C%20%E2%80%98%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%95%ED%95%A9%EC%84%B1%C2%B7%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8%20%EC%9A%B4%EC%98%81%C2%B7%EC%9C%A0%EC%97%B0%ED%95%9C%20%ED%99%95%EC%9E%A5%EC%84%B1%C2%B7%EB%B9%A0%EB%A5%B8%20%EC%9D%91%EB%8B%B5%E2%80%99%EC%9D%84%20%EB%AA%A9%ED%91%9C%EB%A1%9C%20%EA%B3%A0%EB%AF%BC%ED%95%98%EA%B3%A0%20%EC%A7%88%EB%AC%B8%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4."
-  />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=740&lines=Spring+Boot%2FJava+%F0%9F%94%A7;%F0%9F%A7%B1+%EC%A0%95%ED%95%A9%EC%84%B1+%E2%80%A7+%F0%9F%9B%A1%EF%B8%8F+%EC%95%88%EC%A0%95%EC%84%B1+%E2%80%A7+%F0%9F%93%88+%ED%99%95%EC%9E%A5%EC%84%B1+%E2%80%A7+%E2%9A%A1+%EC%84%B1%EB%8A%A5;Ask+%26+Verify%2C+%EA%B1%B0%EA%B8%B0%EC%84%B1%20%EC%A7%84%EB%8B%A8%EA%B3%BC%20%EA%B4%80%EC%B8%A1%EC%84%B1%EC%9D%84+%EC%A4%91%EC%8B%AC%EC%9C%BC%EB%A1%9C" />
-
-
-
-### Spring Boot/Java 중심으로, ‘데이터 정합성·안정적인 운영·유연한 확장성·빠른 응답’을 목표로 고민하고 질문하는 개발자입니다.
-
+ <h3 align="center" style="color:#6A11CB; font-weight:600;">
+  Spring Boot/Java 중심으로, ‘데이터 정합성·안정적인 운영·유연한 확장성·빠른 응답’을 목표로 고민하고 질문하는 개발자입니다.
+</h3>
 
 <a href="https://github.com/chulhyun96">
   <img src="contributions.svg" />
@@ -29,7 +22,7 @@
 - 2024.10~2024.11
   - 우테코 7기 프리코스 참여
 - 2024.10~2025.02
-  - 제로베이스 부트캠프 수료(최우수 프로젝트 선정 실시간 채팅 & 실시간 비디오 스트리밍 플랫폼)
+  - 제로베이스 부트캠프 수료(최우수 프로젝트 선정 실시간 채팅 & 비디오 스트리밍 플랫폼)
 - 2025.03~2025.04
   - 인프런 워밍업 클럽스터디 수료(테스트 코드를 대하는 자세)
 - 2025.05~현재
