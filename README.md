@@ -9,7 +9,7 @@
 ---
 
 ### 📨 SNS & Contact
-[![Blog](https://img.shields.io/badge/Tech%20Blog-12100E?style=flat&logo=dev.to&logoColor=white)]([your-blog-url](https://bebetter-forme.tistory.com))
+[![Blog](https://img.shields.io/badge/Tech%20Blog-12100E?style=flat&logo=dev.to&logoColor=white)]([https://bebetter-forme.tistory.com])
 [![Email](https://img.shields.io/badge/Email-181717?style=flat&logo=gmail&logoColor=white)](tghy4@naver.com)
 
 ---
