@@ -1,7 +1,7 @@
 <div align="center">
 
 ## BackEnd Developer
-### Spring Boot/Java 중심으로, ‘데이터 정합성·안정적인 운영·유연한 확장성·빠른 응답’을 목표로 합니다.
+### Spring Boot/Java 중심으로, ‘데이터 정합성·안정적인 운영·유연한 확장성·빠른 응답’을 목표로 고민하고 질문하는 개발자입니다.
 
 <a href="https://github.com/Mouon">
   <img src="contributions.svg" />
