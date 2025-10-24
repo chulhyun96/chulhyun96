@@ -17,17 +17,17 @@
 
 ---
 ### ⚔️ Skill
-<!-- 사용 기술을 원하시는 대로 추가/삭제 -->
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
-![JPA/Hibernate](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+<!-- 사용 기술을 원하시는 대로 추가/삭제 --><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?style=flat&logo=hibernate&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" height="28" />
+
 
 ---
 
@@ -38,7 +38,7 @@
 
 ### 🚀 Projects Repository
 - [Diary-API](https://github.com/chulhyun96/Diary-API) — 개인 프로젝트
-  - 실 서비스용 프로젝트
+  - 실 서비스용 프로젝트(개발중...)
 - [free-community](https://github.com/chulhyun96/REPO_B) — 토이 프로젝트
   - 데이터 2천만건 이상에서 조회쿼리 분석 및 최적화 기법
   - 동시성 해결을 위한 방법 및 적용
