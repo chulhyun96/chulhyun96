@@ -7,9 +7,6 @@
   
 ![snake](https://github.com/chulhyun96/chulhyun96/blob/output/github-contribution-grid-snake.svg)
 
-<a href="https://github.com/Mouon">
-  <img src="contributions.svg" />
-</a>
 </div>
 
 
