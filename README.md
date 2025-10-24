@@ -9,6 +9,8 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="75%" />
+
 
 ---
 
@@ -45,8 +47,8 @@
 ![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 </div>
----
 
+---
 ### 📖 Study Repository
 - [스프링 부트 공부 기록](https://github.com/chulhyun96?tab=repositories&q=spring)  
 - [북 스터디](https://github.com/chulhyun96?tab=repositories&q=book)
