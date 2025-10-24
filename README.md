@@ -5,7 +5,10 @@
   
 <img src="https://komarev.com/ghpvc/?username=chulhyun96&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
   
-![snake](https://github.com/chulhyun96/chulhyun96/blob/output/github-contribution-grid-snake.svg)
+
+<a href="https://github.com/chulhyun96">
+  <img src="contributions.svg" />
+</a>
 
 </div>
 
