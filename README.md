@@ -5,6 +5,12 @@
 <div align="center">
   
 <img src="https://komarev.com/ghpvc/?username=chulhyun96&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+<div align="center">
+  
+![snake](https://github.com/chulhyun96/chulhyun96/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
   
 </div>
 
