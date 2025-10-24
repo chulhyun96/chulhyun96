@@ -2,17 +2,10 @@
 
 ## BackEnd Developer
 ### Spring Boot/Java 중심으로, ‘데이터 정합성·안정적인 운영·유연한 확장성·빠른 응답’을 목표로 고민하고 질문하는 개발자입니다.
-<div align="center">
   
 <img src="https://komarev.com/ghpvc/?username=chulhyun96&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
-<div align="center">
   
 ![snake](https://github.com/chulhyun96/chulhyun96/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-  
-</div>
 
 <a href="https://github.com/Mouon">
   <img src="contributions.svg" />
