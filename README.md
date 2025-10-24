@@ -1,9 +1,10 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=BackEnd%20Developer&fontSize=42&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:00BFFF&height=180&section=header&text=BackEnd%20Developer&fontSize=42&fontColor=ffffff"/>
+
 
  <h3 align="center" style="color:#6A11CB; font-weight:600;">
-  Spring Boot/Java 중심으로, ‘데이터 정합성·안정적인 운영·유연한 확장성·빠른 응답’을 목표로 고민하고 질문하는 개발자입니다.
+  👋 안녕하세요 ‘데이터 정합성·안정적인 운영·유연한 확장성·빠른 응답’을 목표로 고민하고 질문하는 개발자입니다.
 </h3>
 
 <a href="https://github.com/chulhyun96">
@@ -45,6 +46,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 </div>
 
 ---
@@ -80,10 +82,14 @@
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chulhyun96&theme=github-compact&area=true&hide_border=true" />
 
-<!-- 기존 통계 카드 -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chulhyun96&show_icons=true&theme=transparent" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=chulhyun96&theme=transparent" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chulhyun96&layout=compact&langs_count=8&theme=transparent" />
+<!-- Stats -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chulhyun96&show_icons=true&bg_color=00000000&title_color=E57373&text_color=C7A4A4&icon_color=FF6B6B&border_color=E57373" />
+
+<!-- Streak -->
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=chulhyun96&background=00000000&currStreakNum=FF6B6B&sideNums=FF6B6B&currStreakLabel=E57373&sideLabels=E57373&dates=C0A0A0&ring=FAD0D0&fire=FF6B6B&stroke=E57373" />
+
+<!-- Top Langs -->
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chulhyun96&layout=compact&langs_count=8&bg_color=00000000&title_color=E57373&text_color=C7A4A4&border_color=E57373" />
 
 </div>
 
