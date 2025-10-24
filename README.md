@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=BackEnd%20Developer&fontSize=42&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=BackEnd%20Developer&fontSize=42&fontColor=ffffff"/>
+
 ### Spring Boot/Java 중심으로, ‘데이터 정합성·안정적인 운영·유연한 확장성·빠른 응답’을 목표로 고민하고 질문하는 개발자입니다.
 
 
