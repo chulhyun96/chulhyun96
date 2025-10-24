@@ -2,9 +2,6 @@
 
 ## BackEnd Developer
 ### Spring Boot/Java 중심으로, ‘데이터 정합성·안정적인 운영·유연한 확장성·빠른 응답’을 목표로 고민하고 질문하는 개발자입니다.
-  
-<img src="https://komarev.com/ghpvc/?username=chulhyun96&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
-  
 
 <a href="https://github.com/chulhyun96">
   <img src="contributions.svg" />
@@ -42,6 +39,27 @@
 ![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+<div align="center">
+
+<!-- 라벨 이모지 -->
+🛠️ <b>Skills</b>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+</div>
+
+
 ---
 
 ### 📖 Study Repository
@@ -75,3 +93,4 @@
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chulhyun96&layout=compact&langs_count=8&theme=transparent" />
 </p>
+<img src="https://komarev.com/ghpvc/?username=chulhyun96&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
