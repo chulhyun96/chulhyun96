@@ -59,7 +59,7 @@
 - [Diary-API](https://github.com/chulhyun96/Diary-API) — 개인 프로젝트
   - 실 서비스용 프로젝트(개발중...)
 - [free-community](https://github.com/chulhyun96/REPO_B) — 토이 프로젝트
-  - 데이터 2천만건 이상에서 조회쿼리 분석 및 인덱싱 최적화
+  - 데이터 2천만건 이상에서 조회쿼리 분석 및 최적화, 인덱싱 설계
   - 동시성 해결을 위한 방법 및 적용
   - 커뮤니티 사이트에서 겪을 수 있는 도메인 문제 분석 및 고민&해결 프로젝트 ex)신고 정책, 악성유저 제재 정책, 조회수 어뷰징 방지 정책
 - [Plist - BE](https://github.com/Plist-ZB/plist-backend) — 협업 프로젝트
