@@ -4,7 +4,7 @@
 
 
  <h3 align="center" style="color:#6A11CB; font-weight:600;">
-  👋 안녕하세요 ‘데이터 정합성·안정적인 운영·유연한 확장성·빠른 응답’을 목표로 고민하고 질문하는 개발자입니다.
+  👋 안녕하세요 정합성과 확장성, 빠른 응답을 목표로 고민하고 질문하는 개발자입니다.
 </h3>
 
 <a href="https://github.com/chulhyun96">
